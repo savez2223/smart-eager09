@@ -26,20 +26,20 @@ export const products = {
     variants: {
       "1.0 TON": {
         image: Window,
-        "4": 5999,
+        "4": 6599,
         "6": 6899,
         "full season": 7500,
       },
       "1.5 TON": {
         image: Window2,
-        "4": 6699,
+        "4": 7599,
         "6": 7799,
         "full season": 8400,
       },
       "2.0 TON": {
         image: Window3,
-        "4": 6899,
-        "6": 7998,
+        "4": 7599,
+        "6": 7999,
         "full season": 8799,
       },
     },
