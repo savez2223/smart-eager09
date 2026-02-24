@@ -148,7 +148,7 @@ export const products = {
       "9Fin": {
         image: ORH,
         "2": 1998,
-        "Full Season (Till 31 March)": 2200,
+        "Full Season (Till 31 March)": 2199,
       },
       "11Fin": {
         image: ORH2,
