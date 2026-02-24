@@ -55,7 +55,7 @@ const SERVICE_DATA: Record<string, ServiceData> = {
     priceTiers: [
       { label: "Window AC", price: 499, originalPrice: 650 },
       { label: "Split AC", price: 699, originalPrice: 900 },
-      { label: "Cassette AC", price: 999, originalPrice: 1200 },
+      { label: "Cassette AC", price: 998, originalPrice: 1200 },
       { label: "Tower AC", price: 799, originalPrice: 1000 },
     ],
     acTypes: ["Window AC", "Split AC", "Cassette AC", "Tower AC"],

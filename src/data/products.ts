@@ -39,7 +39,7 @@ export const products = {
       "2.0 TON": {
         image: Window3,
         "4": 6899,
-        "6": 7999,
+        "6": 7998,
         "full season": 8799,
       },
     },
@@ -153,7 +153,7 @@ export const products = {
       "11Fin": {
         image: ORH2,
         "2": 2398,
-        "Full Season (Till 31 March)": 2600,
+        "Full Season (Till 31 March)": 2699,
       },
       "13Fin": {
         image: ORH3,

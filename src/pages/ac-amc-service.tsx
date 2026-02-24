@@ -116,11 +116,11 @@ export const AcAmcService = () => {
                 <span className="font-semibold text-gray-700">
                   Basic (1 Year)
                 </span>
-                <span className="text-2xl font-bold text-blue-600">₹2,499</span>
+                <span className="text-2xl font-bold text-blue-600">₹2,498</span>
               </div>
               <button
                 onClick={() =>
-                  openPopup("Window AC AMC Basic (1 Year) - ₹2,499")
+                  openPopup("Window AC AMC Basic (1 Year) - ₹2,498")
                 }
                 className="w-full bg-blue-600 hover:bg-blue-700 text-white px-4 py-2.5 rounded-lg font-semibold transition-colors flex items-center justify-center gap-2"
               >
@@ -133,11 +133,11 @@ export const AcAmcService = () => {
                 <span className="font-semibold text-gray-700">
                   Advanced (1 Year)
                 </span>
-                <span className="text-2xl font-bold text-gray-900">₹3,299</span>
+                <span className="text-2xl font-bold text-gray-900">₹3,298</span>
               </div>
               <button
                 onClick={() =>
-                  openPopup("Window AC AMC Advanced (1 Year) - ₹3,299")
+                  openPopup("Window AC AMC Advanced (1 Year) - ₹3,298")
                 }
                 className="w-full bg-gray-900 hover:bg-black text-white px-4 py-2.5 rounded-lg font-semibold transition-colors flex items-center justify-center gap-2"
               >
