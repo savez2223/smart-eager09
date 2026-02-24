@@ -86,19 +86,19 @@ export const products = {
     variants: {
       "1.0 TON": {
         image: SAC,
-        "4": 7696,
+        "4": 9999,
         "6": 10999,
         "full season": 11499,
       },
       "1.5 TON": {
         image: SAC2,
-        "4": 8696,
+        "4": 11499,
         "6": 11999,
         "full season": 12499,
       },
       "2.0 TON": {
         image: SAC3,
-        "4": 9364,
+        "4": 12499,
         "6": 12999,
         "full season": 13499,
       },
