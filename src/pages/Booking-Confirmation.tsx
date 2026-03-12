@@ -190,8 +190,8 @@ const SERVICE_DATA: Record<string, ServiceData> = {
     ],
     inclusions: [
       "Gas refill with high-quality refrigerant",
-      "Leak detection included",
-      "30-day warranty on gas refill",
+      "Leak detection included ",
+      "One Week warranty on gas refill",
     ],
     exclusions: [
       "Leak repair parts charged separately",
