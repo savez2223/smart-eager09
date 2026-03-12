@@ -81,26 +81,26 @@ export const products = {
     },
   },
   "split-ac": {
-    name: "Split AC On Rent",
+    name: "Invertor Split AC On Rent",
     image: SACM,
     variants: {
       "1.0 TON": {
         image: SAC,
-        "4": 9999,
-        "6": 10999,
-        "full season": 11499,
+        "4": 12599,
+        "6": 14599,
+        "full season": 15999,
       },
       "1.5 TON": {
         image: SAC2,
-        "4": 11499,
-        "6": 11999,
-        "full season": 12499,
+        "4": 12999,
+        "6": 14999,
+        "full season": 16999,
       },
       "2.0 TON": {
         image: SAC3,
-        "4": 12499,
-        "6": 12999,
-        "full season": 13499,
+        "4": 13499,
+        "6": 15999,
+        "full season": 17499,
       },
     },
 
