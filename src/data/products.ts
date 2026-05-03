@@ -26,21 +26,21 @@ export const products = {
     variants: {
       "1.0 TON": {
         image: Window,
-        "4": 6599,
-        "6": 6999,
-        "full season": 7200,
+        "4": 7299,
+        "6": 7499,
+        "full season": 7599,
       },
       "1.5 TON": {
         image: Window2,
-        "4": 6999,
-        "6": 7499,
-        "full season": 7800,
+        "4": 7299,
+        "6": 7399,
+        "full season": 7499,
       },
       "2.0 TON": {
         image: Window3,
-        "4": 7099,
-        "6": 7899,
-        "full season": 8699,
+        "4": 7399,
+        "6": 7499,
+        "full season": 7699,
       },
     },
 
@@ -86,15 +86,15 @@ export const products = {
     variants: {
       "1.0 TON": {
         image: SAC,
-        "4": 12599,
-        "6": 12999,
-        "full season": 13999,
+        "4": 12499,
+        "6": 12699,
+        "full season": 12999,
       },
       "1.5 TON": {
         image: SAC2,
-        "4": 12999,
-        "6": 13999,
-        "full season": 14999,
+        "4": 12599,
+        "6": 12799,
+        "full season": 12799,
       },
       "2.0 TON": {
         image: SAC3,
